@@ -4,30 +4,31 @@ inline: false
 group: Faculty
 group_rank: 1
 
-title: Yu-Qin Chen
+title: Prof. Yu-Qin Chen
+page_title: true
 description: 
 lastname: Chen
 
 teaser: >
-    Hello
     <br />
     <br />
 
 
 profile:
-    name: Yu-Qin Chen
+    name: Yu-Qin Chen (陈玉琴)
     position: > 
         Principal Investigator<br />
         Associate Member<br />
         Graduate School<br />
         China Academy of Engineering Physics<br />
     align: middle
-    image: chenr2.jpg
+    image: chen3.png
     miniimage: chenc.jpeg
     email: yqchen@gscaep.ac.cn
+    scholar: NgJg0kcAAAAJ
     github: yutuer
     address: >
-        Beijing China
+        Beijing, China
 ---
 
 <br>
@@ -47,7 +48,7 @@ profile:
 
 ## Publications
 
-To be updated.
+
 
 
 <div class="publications">

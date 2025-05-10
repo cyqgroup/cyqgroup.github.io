@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research group led by Prof. Yu-Qin Chen
+subtitle: Research group led by <b>Prof. Yu-Qin Chen</b>
 
 
 profile:
@@ -15,7 +15,7 @@ profile:
       Graduate School of China Academy of Engineering Physics<br />
       Beijing, China
   align: right
-  image: chen4.JPG
+  image: chenc.jpeg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
