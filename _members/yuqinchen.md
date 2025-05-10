@@ -41,7 +41,7 @@ profile:
 
 ## Education
 
-* 2013.9 - 2019.6  ICQM, School of Physics, Peking University, PhD in Physics 
+* 2013.9 - 2019.6  ICQM, School of Physics, Peking University, PhD in Physics. Supervisor: <a href="https://icqm.pku.edu.cn/yw/directory/faculty/237465.htm">Xiong-Jun Liu</a> 
 
 * 2009.9 - 2013.6  Department of Physics, Tianjin University, BSc in Physics
 
