@@ -31,9 +31,9 @@ Welcome to our research group! Our group is led by Prof. Chen. Our research is c
 * **Open quantum systems**: quantum noise characterizing, simulation and mitigation for quantum device; novel physics for condensed matter systems in open environment.
 
 * **Artificial intelligence**: the interaction between machine learning's infrastructure, models, and concepts with the realms of quantum physics, quantum computing, and quantum control. 
-
+<p style="text-align: justify;">
 Relevant research outcomes have been published in journals including Nature Machine Intelligence, Communications Physics, Science Bulletin, Physical Review Applied, Physical Review Research, Physical Review A, and Quantum. A patent pertaining to quantum noise characterization was honored with the Silver Award at the 24th China Patent Awards. The quantum software we developed, <a href="/projects/TensorCircuit-NG">TensorCircuit-NG</a>, has emerged as a highly popular quantum simulation platform in the field.
-
+</p>
 
 
 [Talk to us](mailto:yqchen@gscaep.ac.cn) or [join us]({{ '/join-us' | relative_url }}) when you are interested in these topics or our work.
